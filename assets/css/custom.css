@@ -4,3 +4,57 @@ html, body
     background-color: #1d304d;
     color: white;
 }
+
+.container
+{
+    text-align: center;
+    justify-content: center;
+}
+
+.content
+{
+    position: relative;
+    box-shadow: 5px 6px 2px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 50px;
+    border-radius: 11px;
+    
+}
+
+.login_form
+{
+    margin-right: 10%;
+    display: block;
+    margin-left: 10%; 
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.login_options
+{
+    position: relative;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    text-align: center;
+    justify-content: center;
+}
+
+#login_label
+{
+    margin-top: 5%;
+    text-align: center;
+}
+
+#goto_signup
+{
+    padding: auto;
+   
+}
+
+.subm
+{
+    border-radius: 11px;
+    box-shadow: 5px 6px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
