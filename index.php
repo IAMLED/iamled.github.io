@@ -11,8 +11,12 @@
         <link rel="stylesheet" href="assets\font-awesome-4.7.0\css\font-awesome.min.css">
         <link rel="stylesheet" href="assets/css/custom.css">
         <link rel="favicon" href="">
+        <script>
+            const swup = new Swup();
+        </script>
     </head>
     <body>
+    
         <div class="covers container-fluid">
             <div class="containers">
                 <h1 id="welcome">Welcome to Stuorg</h1>
@@ -49,10 +53,12 @@
 
             </div>
         </div>    
-        
+ 
 
             <!-- JavaScript Bundle with Popper -->
         <script src="assets\js\jquery-3.6.0.js"></script> 
         <script src="assets\js\bootstrap.bundle.min.js"></script>   
+        <script src="assets/dist/swup.min.js"></script>
+        <script src="assets/js/custom.js"></script>
     </body>
 </html>
