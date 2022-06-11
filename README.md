@@ -21,3 +21,5 @@ There will be different levels of users with different privileges such as;
 - Standard Students: can register and login to their accounts, create courses, notes and timetables, delete expired notes and timetable, update password from time to time. 
 
 - Premium Students: All of the standard student capabilities plus the ability to share notes and collaborate on assignments.
+
+Unlike a ctf or challenge labs where users are ranked by flags found or challenges completed, this platform will have a Stuorg Researcher platform where researchers will submit reports of vulnerabilities found and be ranked based on different factors such as approach, POC, report, severity of vulnerability found, etc. This is to help begginer researchers understand how real life pentesting works and help them build practical skill set.
